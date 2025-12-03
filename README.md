@@ -24,7 +24,6 @@ JavaScript (ES6+)
 <img width="334" height="577" alt="image" src="https://github.com/user-attachments/assets/90ff6cad-5a34-47f8-b821-163701347eaa" />
 
 
-image
 ⚙️ Como Rodar o Projeto
 
 1- Clone o repositório
