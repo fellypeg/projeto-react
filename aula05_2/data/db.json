@@ -1,0 +1,29 @@
+{
+  "alunos": [
+    {
+      "id": "1",
+      "nome": "fellype",
+      "curso": "SPI"
+    },
+    {
+      "id": "2",
+      "nome": "gabriel",
+      "curso": "SPI"
+    },
+    {
+      "id": "3",
+      "nome": "rafel",
+      "curso": "SPI"
+    },
+    {
+      "id": "4",
+      "nome": "fernando",
+      "curso": "SPI"
+    },
+    {
+      "id": "5",
+      "nome": "leomar",
+      "curso": "SPI"
+    }
+  ]
+}
