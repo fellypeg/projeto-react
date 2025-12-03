@@ -26,12 +26,15 @@ O objetivo do projeto é oferecer uma experiência rápida, responsiva e moderna
 ⚙️ Como Rodar o Projeto
 
 1. Clone o repositório
-git clone https://github.com/SamuelloranD/demo-springboot-jpa.git
+   
+git clone https://github.com/fellypeg/projeto-react.git
 
-2. Instale as dependências
+3. Instale as dependências
+
 npm install
 
-3. Execute o servidor de desenvolvimento
+4. Execute o servidor de desenvolvimento
+
 npm start
 
 O site ficará disponível em:
