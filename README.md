@@ -20,6 +20,7 @@ O objetivo do projeto é oferecer uma experiência rápida, responsiva e moderna
 - JavaScript (ES6+)
 
 📂 Estrutura Principal do Projeto
+
 <img width="334" height="577" alt="image" src="https://github.com/user-attachments/assets/334aaacf-5a84-48be-9dbb-c800293ae33b" />
 
 ⚙️ Como Rodar o Projeto
